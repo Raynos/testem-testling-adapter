@@ -1,0 +1,25 @@
+{
+  "name": "testem-testling-adapter",
+  "version": "0.0.1",
+  "description": "Adapt testling into testem",
+  "keywords": [],
+  "author": "Raynos <raynos2@gmail.com>",
+  "repository": "git://github.com/Raynos/testem-testling-adapter.git",
+  "main": "index",
+  "homepage": "https://github.com/Raynos/testem-testling-adapter",
+  "contributors": [
+    {
+      "name": "Jake Verbaten"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/Raynos/testem-testling-adapter/issues",
+    "email": "raynos2@gmail.com"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/raynos/testem-testling-adapter/raw/master/LICENSE"
+    }
+  ]
+}
