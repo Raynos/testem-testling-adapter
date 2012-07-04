@@ -15,7 +15,7 @@ var es = require("event-stream")
 
 module.exports = adapterStream
 
-window.customAdapter = customAdapter
+window.Testem.useCustomAdapter(customAdapter)
 
 function customAdapter(_socket) {
     socket = _socket
