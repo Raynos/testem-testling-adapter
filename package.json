@@ -1,6 +1,6 @@
 {
   "name": "testem-testling-adapter",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Adapt testling into testem",
   "keywords": [],
   "author": "Raynos <raynos2@gmail.com>",
@@ -23,6 +23,6 @@
     }
   ],
   "dependencies": {
-    "event-stream": "~2.1.2"
+    "event-stream": "git://github.com/Raynos/event-stream#patch-1"
   }
 }
